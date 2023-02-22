@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="108" viewBox="0 0 111 108">
+  <g id="icon3" transform="translate(0.095)">
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="33" cy="32.5" rx="33" ry="32.5" transform="translate(-0.095)" fill="rgba(196,196,196,0.06)"/>
+    <g id="tooth_2_1" data-name="tooth (2) 1" transform="translate(8 12)">
+      <rect id="tooth_2_1_Background_Mask_" data-name="tooth (2) 1 (Background/Mask)" width="103" height="96" transform="translate(-0.095)" fill="none"/>
+      <g id="Group" transform="translate(21 14.4)">
+        <g id="Group-2" data-name="Group">
+          <path id="Vector" d="M39.129,1.2a23.086,23.086,0,0,1-17.124,0C13.984-2.027,4.7,1.479,1.272,9.036A14.139,14.139,0,0,0,0,14.88a38.557,38.557,0,0,0,4.511,18l2.325,4.384L9.724,61.73a6.454,6.454,0,0,0,7.215,5.439,6.374,6.374,0,0,0,5.741-5.2L26.4,38.589a4.187,4.187,0,0,1,4.792-3.345,4.1,4.1,0,0,1,3.551,3.345l3.721,23.374A6.488,6.488,0,0,0,45.9,67.138a6.336,6.336,0,0,0,5.525-5.408l2.887-24.464,2.325-4.384a38.557,38.557,0,0,0,4.511-18C61.138,6.665,54.07.006,45.349,0A16.525,16.525,0,0,0,39.129,1.2Z" fill="#0b498f"/>
+          <path id="Vector-2" data-name="Vector" d="M53.393,31.446l-2.463,4.64a1.577,1.577,0,0,0-.17.539L47.848,61.371a3.1,3.1,0,0,1-3.458,2.614,3.058,3.058,0,0,1-2.76-2.5L37.908,38.109a7.565,7.565,0,0,0-8.667-6.027,7.409,7.409,0,0,0-6.4,6.027L19.121,61.483a3.113,3.113,0,0,1-3.562,2.488,3.04,3.04,0,0,1-2.656-2.6L9.984,36.624a1.582,1.582,0,0,0-.17-.539l-2.463-4.64A35.494,35.494,0,0,1,3.2,14.88C3.2,8.429,8.753,3.2,15.6,3.2a13.058,13.058,0,0,1,4.876.942,26.662,26.662,0,0,0,19.8,0c6.3-2.538,13.583.212,16.277,6.143a11.1,11.1,0,0,1,1,4.593A35.494,35.494,0,0,1,53.4,31.446Z" transform="translate(0.197)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(27.794 21.069)">
+        <g id="Group-4" data-name="Group" transform="translate(0)">
+          <path id="Vector-3" data-name="Vector" d="M0,10.3v2.232H3.4V10.3a9.03,9.03,0,0,1,4.34-7.637L5.851,0A12.181,12.181,0,0,0,0,10.3Z" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-5" data-name="Group" transform="translate(49.874)">
+        <g id="Group-6" data-name="Group">
+          <path id="Vector-4" data-name="Vector" d="M3.4,0V6.4H0V0Z" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-7" data-name="Group" transform="translate(49.874 89.6)">
+        <g id="Group-8" data-name="Group">
+          <path id="Vector-5" data-name="Vector" d="M3.4,0V6.4H0V0Z" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-9" data-name="Group" transform="translate(24.624 5.474)">
+        <g id="Group-10" data-name="Group" transform="translate(0)">
+          <path id="Vector-6" data-name="Vector" d="M3.348.085l.171,6.5L.171,6.5,0,0Z" transform="translate(0 1.759) rotate(-30.001)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-11" data-name="Group" transform="translate(72.181 83.064)">
+        <g id="Group-12" data-name="Group" transform="translate(0)">
+          <path id="Vector-7" data-name="Vector" d="M3.348.085l.171,6.5L.171,6.5,0,0Z" transform="translate(0 1.759) rotate(-30.001)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-13" data-name="Group" transform="translate(6.596 22.424)">
+        <g id="Group-14" data-name="Group" transform="translate(0)">
+          <path id="Vector-8" data-name="Vector" d="M3.249.085l.171,6.7L.171,6.7,0,0Z" transform="translate(0 2.962) rotate(-60.007)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-15" data-name="Group" transform="translate(88.968 67.22)">
+        <g id="Group-16" data-name="Group" transform="translate(0)">
+          <path id="Vector-9" data-name="Vector" d="M3.249.085l.171,6.7L.171,6.7,0,0Z" transform="matrix(0.5, -0.866, 0.866, 0.5, 0, 2.962)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-17" data-name="Group" transform="translate(0.618 46.4)">
+        <g id="Group-18" data-name="Group">
+          <path id="Vector-10" data-name="Vector" d="M6.794,0V3.2H0V0Z" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-19" data-name="Group" transform="translate(95.733 46.4)">
+        <g id="Group-20" data-name="Group">
+          <path id="Vector-11" data-name="Vector" d="M6.794,0V3.2H0V0Z" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-21" data-name="Group" transform="translate(6.596 67.233)">
+        <g id="Group-22" data-name="Group" transform="translate(0)">
+          <path id="Vector-12" data-name="Vector" d="M6.7.171,6.781,3.42l-6.7-.171L0,0Z" transform="matrix(0.866, -0.5, 0.5, 0.866, 0, 3.39)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-23" data-name="Group" transform="translate(88.971 22.425)">
+        <g id="Group-24" data-name="Group" transform="translate(0)">
+          <path id="Vector-13" data-name="Vector" d="M6.7.171,6.781,3.42l-6.7-.171L0,0Z" transform="translate(0 3.39) rotate(-29.993)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-25" data-name="Group" transform="translate(24.629 83.066)">
+        <g id="Group-26" data-name="Group" transform="translate(0)">
+          <path id="Vector-14" data-name="Vector" d="M6.5.171l.085,3.348-6.5-.171L0,0Z" transform="translate(0 5.702) rotate(-60.007)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-27" data-name="Group" transform="translate(72.182 5.475)">
+        <g id="Group-28" data-name="Group" transform="translate(0)">
+          <path id="Vector-15" data-name="Vector" d="M6.5.171l.085,3.348-6.5-.171L0,0Z" transform="matrix(0.5, -0.866, 0.866, 0.5, 0, 5.702)" fill="#0b498f"/>
+        </g>
+      </g>
+      <g id="Group-29" data-name="Group" transform="translate(0.623 0.002)">
+        <g id="Group-30" data-name="Group" transform="translate(0)">
+          <path id="Vector-16" data-name="Vector" d="M15.56,6.42a6.39,6.39,0,0,1-5.4-5.086A1.691,1.691,0,0,0,8.2.023,1.652,1.652,0,0,0,6.813,1.333a6.39,6.39,0,0,1-5.4,5.086A1.613,1.613,0,0,0,.024,8.264,1.652,1.652,0,0,0,1.416,9.575a6.39,6.39,0,0,1,5.4,5.086,1.691,1.691,0,0,0,1.958,1.311,1.652,1.652,0,0,0,1.391-1.311,6.39,6.39,0,0,1,5.4-5.086,1.613,1.613,0,0,0,1.391-1.844A1.652,1.652,0,0,0,15.56,6.42Z" transform="translate(0 0)" fill="#0b498f"/>
+          <path id="Vector-17" data-name="Vector" d="M5.711,8A9.7,9.7,0,0,0,8.136,5.713,9.7,9.7,0,0,0,10.562,8a9.7,9.7,0,0,0-2.425,2.285A9.7,9.7,0,0,0,5.711,8Z" transform="translate(0.351 0)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="tooth_2_1_Background_Mask_2" data-name="tooth (2) 1 (Background/Mask)" width="103" height="96" transform="translate(-0.095)" fill="none"/>
+    </g>
+  </g>
+</svg>

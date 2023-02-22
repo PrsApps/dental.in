@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="105" viewBox="0 0 104 105">
+  <g id="icon4" transform="translate(0.36)">
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="32.5" cy="32.5" r="32.5" transform="translate(-0.36)" fill="rgba(196,196,196,0.06)"/>
+    <g id="dental-implant_1" data-name="dental-implant 1" transform="translate(2 9)">
+      <rect id="dental-implant_1_Background_Mask_" data-name="dental-implant 1 (Background/Mask)" width="102" height="96" transform="translate(-0.36)" fill="none"/>
+      <g id="Group" transform="translate(20.14)">
+        <g id="Group-2" data-name="Group">
+          <path id="Vector" d="M39.129,1.2a23.071,23.071,0,0,1-17.124,0C13.984-2.027,4.7,1.479,1.272,9.036A14.143,14.143,0,0,0,0,14.88,38.543,38.543,0,0,0,4.443,32.754l2.42,7.706A1.689,1.689,0,0,0,8.492,41.6h5.1v8a1.652,1.652,0,0,0,1.7,1.6h5.1v3.723l-4.909-.514L15.1,57.59l5.282.554v6.379l-4.909-.514L15.1,67.19l5.282.554v6.379l-4.909-.514L15.1,76.79l5.282.554v6.379l-4.909-.514L15.1,86.39l5.4.565v.038l3.4,8A1.7,1.7,0,0,0,25.477,96H35.668a1.7,1.7,0,0,0,1.578-1.006l2.548-6.018,5.872.614.374-3.181-5.275-.554V79.477l4.909.514.374-3.181-5.282-.554V69.877l4.909.514.374-3.181-5.282-.554V60.277l4.909.514.374-3.181-5.282-.554V51.2h5.1a1.652,1.652,0,0,0,1.7-1.6v-8h5.1a1.688,1.688,0,0,0,1.629-1.146l2.42-7.706A38.543,38.543,0,0,0,61.145,14.88C61.138,6.665,54.07.006,45.349,0A16.541,16.541,0,0,0,39.129,1.2Z" fill="#0b498f"/>
+          <path id="Vector-2" data-name="Vector" d="M25.217,92.8l-2.312-5.44,11.983,1.254L33.1,92.8Z" transform="translate(1.41)" fill="#fff"/>
+          <path id="Vector-3" data-name="Vector" d="M22.4,84.078V77.7l13.588,1.422V85.5Z" transform="translate(1.379)" fill="#fff"/>
+          <path id="Vector-4" data-name="Vector" d="M22.4,74.478V68.1l13.588,1.422V75.9Z" transform="translate(1.379)" fill="#fff"/>
+          <path id="Vector-5" data-name="Vector" d="M22.4,64.878V58.5l13.588,1.422V66.3Z" transform="translate(1.379)" fill="#fff"/>
+          <path id="Vector-6" data-name="Vector" d="M22.4,55.278V51.2H35.988v5.5Z" transform="translate(1.379)" fill="#fff"/>
+          <path id="Vector-7" data-name="Vector" d="M16,48V41.6H43.176V48Z" transform="translate(0.985)" fill="#fff"/>
+          <path id="Vector-8" data-name="Vector" d="M53.29,31.706l-2.1,6.694H9.564l-2.1-6.694a1.568,1.568,0,0,0-.109-.261A35.471,35.471,0,0,1,3.2,14.88C3.2,8.429,8.754,3.2,15.6,3.2a13.06,13.06,0,0,1,4.873.941,26.667,26.667,0,0,0,19.8,0c6.3-2.538,13.583.212,16.277,6.143a11.1,11.1,0,0,1,1,4.593A35.471,35.471,0,0,1,53.4,31.445,1.568,1.568,0,0,0,53.29,31.706Z" transform="translate(0.197)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(26.934 6.611)">
+        <g id="Group-4" data-name="Group">
+          <path id="Vector-9" data-name="Vector" d="M0,9.077v1.912H3.4V9.069a7.358,7.358,0,0,1,4.246-6.3L5.945,0A10.484,10.484,0,0,0,0,9.077Z" fill="#0b498f"/>
+        </g>
+      </g>
+      <rect id="dental-implant_1_Background_Mask_2" data-name="dental-implant 1 (Background/Mask)" width="102" height="96" transform="translate(-0.36)" fill="none"/>
+    </g>
+  </g>
+</svg>

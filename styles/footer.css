@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15.4rem;
+    align-items: center;
+}
+
+.footer_logo {
+    width: 12rem;
+    max-width: 100%;
+}
+
+.footer_text {
+font-size: 1.4rem;
+color: #00000080;
+font-weight: 600;
+margin-top: 3.2rem;
+}
+
+@media (min-width: 900px) {
+    .footer_logo {
+        width: 19rem;
+    }
+    .footer_text {
+        font-size: 2.4rem;
+        margin-top: 5.1rem;
+    }
+}
